@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations about The new test of the Church of Englands loyalty in a letter / from a country gentleman ; occasioned by the present invasion.</title>
+            <author>Whitaker, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60768</idno>
+            <idno type="STC">Wing S4480A</idno>
+            <idno type="STC">ESTC N36684</idno>
+            <idno type="EEBO-CITATION">13577682</idno>
+            <idno type="OCLC">ocm 13577682</idno>
+            <idno type="VID">100466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60768)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100466)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1049:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations about The new test of the Church of Englands loyalty in a letter / from a country gentleman ; occasioned by the present invasion.</title>
+                  <author>Whitaker, Edward.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government.</term>
+               <term>New test of the Church of England's loyalty.</term>
+               <term>Church and state --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:100466:1" rendition="simple:additions"/>
+            <head>SOME CONSIDERATIONS ABOUT THE New TEST OF THE Church of <hi>ENGLANDS</hi> Loyalty: IN A LETTER From a COUNTRY GENTLEMAN; <hi>Occaſioned by the preſent Invaſion.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have great Obligations to you for the continual Ac<g ref="char:EOLhyphen"/>counts you ſend me; I have not Power, or if I had, I am not at leiſure to expreſs my Engagements. For to tell you truly, your late Accounts of our ſtrange Revolu<g ref="char:EOLhyphen"/>tions, do ſo fill my Thoughts, that I am pauſing upon them continually. Indeed you have all along repreſented Things as became that Important Station and Honourable Chara<g ref="char:EOLhyphen"/>cter
+<pb n="2" facs="tcp:100466:2"/>you bore when the Crown was in danger the time be<g ref="char:EOLhyphen"/>fore. But I muſt need ſay, that in theſe latter Relations you have ſo Inſtructed me, that I am at a perfect loſs with my ſelf whether you have been more Juſt or Kind: For, as in<g ref="char:EOLhyphen"/>deed the Caſe requir'd, you have given me ſuch a parti<g ref="char:EOLhyphen"/>cular view of things, that if I liv'd in <hi>London,</hi> and had thoſe compleat Freedoms which you enjoy with ſo many Men of Senſe and Quality, yet I ſhould never be able to form ſo exact an <hi>Idea</hi> of our Publick Affairs as I take from your Paper as it lies before me. I have alſo had the plea<g ref="char:EOLhyphen"/>ſure of Entertaining my Friends at your Expence, for ſo the Honeſty and Ingenuity of your Letters requir'd I ſhould. Beſides, it was neceſſary to Inform my Neighbours, that we might find out by Conſultation which were the beſt Me<g ref="char:EOLhyphen"/>thods to ſerve His Majeſty, now His Neceſſity calls for our Help again, and His Wiſdom does us the Honour to Com<g ref="char:EOLhyphen"/>mand it.</p>
+            <p>You remember, Sir, (ſince you made us happy in your Converſation) what a conſiderable Neighbourhood we have, how Perſons of Honour and Quality, Loyalty and Confor<g ref="char:EOLhyphen"/>mity, live thick about us, and what a powerful Influence they have upon the Common People, I leave this to your Reflection. But it was neceſſary I ſhould put you in mind of it, in order to what I am going to ſay; for now I am coming to ſet down thoſe Thoughts which caus'd you this trouble.</p>
+            <p>And yet before I can ſpeak directly, I muſt obſerve the Seaſonableneſs of theſe Conſiderations.</p>
+            <p>There is a time for every Purpoſe, ſaid the Wiſe King <hi>Solomon,</hi> and 'tis made good in this particular; <hi>for if that</hi> be the time to conſider and expoſe Falſe Reaſonings, <hi>when our Adveſaries are bound to take notice of what we ſay,</hi> then this is the very time to Vindicate our ſelves from thoſe Odious Slanders which have been outragiouſly thrown upon us. Particularly in <hi>May</hi> 1687. there came out a Scandalous Pa<g ref="char:EOLhyphen"/>per call'd, <hi>A New Teſt of the Church of Englands Loyalty.</hi> The deſign of which Paper is to prove that our Eccleſiaſtical Conſtitution, as 'tis now Reform'd, was Hatch'd, Nouriſh'd, and Supported to this day by Diſloyal and Treacherous Practices. I need not prove that this is the pretence of the
+<pb n="3" facs="tcp:100466:2"/>Paper, for we our ſelves remember it <hi>ſufficiently,</hi> and the Author of it will not, I'me ſure, pretend that I <hi>Miſrepreſent</hi> him.</p>
+            <p>If all the Inſtances he brought to prove his Accuſation, had been true, it had yet been no Blemiſh to our Church at all.</p>
+            <p>'Tis an horrid practice of theſe Adverſaries, and they have been as loudly told of their Reaſonings againſt us, to the Damage, and if they could, to the Ruine of our Common Chriſtianity. And ſuch amongſt many others, is this M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thod of Reaſoning againſt Mens Practices in ſpight of their Principles. For what if ſome of our Members prove Diſ<g ref="char:EOLhyphen"/>loyal, 'tis yet no more Reproach upon our Eccleſiaſtical Con<g ref="char:EOLhyphen"/>ſtitution, than the wicked Lives of Chriſtians, if objected by a Turk, would be an Argument againſt the Divine In<g ref="char:EOLhyphen"/>ſtitution of our Bleſſed Lord himſelf?</p>
+            <p>Thus his Paper would have been good for nothing, if his Inſtances had been true; But how utterly Falſe they are, his Judicious Anſwerers have plentifully ſhewn.</p>
+            <p>Theſe Worthy Perſons have done more than was neceſ<g ref="char:EOLhyphen"/>ſary in expoſing this Paper, for every common <hi>Reader</hi> diſ<g ref="char:EOLhyphen"/>cerned the Deceit of it, and therefore it is not my Intention to add any particular Reflections; Tho' if I wrote to gra<g ref="char:EOLhyphen"/>tifie any Pique, I could not forbear, there are ſo many lewd things in the Paper which have not been yet expoſed. But my deſign is only to ſhew our unthinking Adverſaries the plain Conſequences of it, and how much Miſchief this Pa<g ref="char:EOLhyphen"/>per, <hi>and that which follow'd to Abett it, NOW</hi> does the Royal Cauſe, till a Mark of Infamy be fixt upon them.</p>
+            <p>For in a word, the Diſpute is not between him, and me, but between theſe Raſcally Papers, and His moſt Sacred Majeſty.</p>
+            <p>For the plain Relation of the Caſe is thus:</p>
+            <p>His Majeſty upon His coming to the Crown, did Graci<g ref="char:EOLhyphen"/>ouſly (let me add) <hi>and Gratefully acknowledge</hi> our Loyalty: His Sacred Words are theſe: <hi>I know the Principles of the Church of</hi> England <hi>are for Monarchy, and the Members of it have ſhewn themſelves Good and Loyal Subjects.</hi>
+            </p>
+            <p>And again at the opening of the Parliament, <hi>May</hi> xxil. 1685. <hi>What I ſaid to my Privy Council at My firſt coming there,
+<pb n="4" facs="tcp:100466:3"/>I am Deſirous to Renew to You; wherein I Fully Declared My Opinion concerning the Principles of the Church of</hi> England, <hi>whoſe Members have ſhewed themſelves Eminently Loyal in the Worſt of Times, in Defence of My Father, and Support of My Brother of Bleſſed Memory:</hi> Here are Principles and Practices too. But this little Author on the contrary ſays, <hi>We muſt Change our Old Principles of Loyalty.</hi> This ſurely is bad enough to be ſaid directly in the Face of our Royal Maſter; and if it were for this Reaſon only, methinks the Paper ſhould not have <hi>an Allowance</hi> to the Printing.</p>
+            <p>Perhaps they will excuſe themſelves, by ſaying as they have done, that we have forfeited the Kings Protection, and ſo He may break His Word with us.</p>
+            <p>They have ſaid ſo indeed, <hi>to the Kings Damage,</hi> but be ſure our preſent Circumſtances will convince them that 'tis false and then there will be no Remedy, but this Deſperate Paper muſt be Stigmatiz'd, or elſe it will fly in the Kings Face, and deceive <hi>Poſterity</hi> into an Opinion that He began His Reign with (what I abhor to mention) a Solemn and Deliberate Falſhood in His Mouth. But there is yet another Scene of Miſchiefs which will be ſure follow, if this <hi>Paper</hi> be ſtill pro<g ref="char:EOLhyphen"/>tected.</p>
+            <p>We heard ſome Reports <hi>or Amuzements rather,</hi> about the <hi>Dutch</hi> preparations; but when you ſent the <hi>Kings Proclama<g ref="char:EOLhyphen"/>tion,</hi> Dated the xxviii. of <hi>September</hi> laſt, we then thought ſeriouſly of things, and ſtood on Tiptoes, as it were, to ſee what was the matter, and what Meaſures would be taken.</p>
+            <p>When behold we found the King ſo far from believing that we had forfeited our Right to <hi>His Promiſe</hi> and <hi>Protection,</hi> or that we were Diſloyal and Treacherous, as this <hi>Pamphlet</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>landers us, that He did not think Himſelf Safe till we again were made His Life-Gard.</p>
+            <p>I might alledge many things to prove what I now Aſſert, but I only alledge that Famous <hi>Proclamation,</hi> as Poſterity will call it, Dated the xvii. of <hi>October</hi> laſt, by which <hi>Proclamation</hi> the King Intruſts again all His Corporations in the hands of the Church of <hi>England.</hi>
+            </p>
+            <p>We thank the King abundantly for His goodneſs towards us: but 'tis not my preſent buſineſs to invent for handſome Expreſſions, for we are now conſidering <hi>the Mighty Truſt,</hi>
+               <pb n="5" facs="tcp:100466:3"/>and taking notice how it flatly contradicts this provoking pamphlet; ſo that a ſecond time the matter comes to be de<g ref="char:EOLhyphen"/>bated, as it were, between this wicked Author, and our dread Sovereign.</p>
+            <p>But the King as he is gracious, ſo he has manifeſted him<g ref="char:EOLhyphen"/>ſelf to be Superlatively Tender to thoſe of his own Perſwaſi<g ref="char:EOLhyphen"/>on; and ſo I ſhall inſiſt no longer upon this miſchief, leaſt I wholly loſe my labour; for I am dealing with Adverſarys, who care not much for the Kings Honour, as they have ſhewn the World abundantly; and the King ſurely has too much Goodneſs, to inſiſt upon it againſt them.</p>
+            <p>But now if the Members of this Communion ſhould fail him! A man that loves his King and Country, does even ſhrink at the Suppoſition: But becauſe there is no harm in the bare Suppoſal, we'll imagine that they may. I need not be told that we ought to do our Duty to the King, what ever Diſappointments or Severities we meet with; <hi>and by the Grace of God we reſolve that we will.</hi>
+            </p>
+            <p>But yet theſe men ſhould conſider, that we are frail Men, and our paſſions may be provoked, till they maſter our Reaſon, and then indeed, tho' we ſhall be Guilty, yet nei<g ref="char:EOLhyphen"/>ther will they be Innocent; <hi>and be ſure the Miſery will be chiefly theirs.</hi>
+            </p>
+            <p>And now let's look upon thoſe <hi>High Provocations</hi> they give us. 'Tis plain, if the King may be Judge from firſt to laſt, they are all unreaſonable, and that is a moſt provoking Circumſtance.</p>
+            <p>But I ſhall be ſo exceeding fair with our Adverſaries, as to overlook a whole multitude of Exaſperations, and Confine my ſelf to this bold Paper; and this ſurely will oblige them, and ſo will have ſome good effect.</p>
+            <p>'Tis twice already within the compaſs of ſeven years, that we have hazarded our Lives and Fortunes in the ſervice and defence of this very Prince, and by God's goodneſs have been ſucceſsful too, and that is an Endearing Circumſtance.</p>
+            <p>But now that we are called upon for further Aſſiſtances, we ſhall be apt to enquire what Returns have been made to our paſt Services?</p>
+            <p>I never mean from the King, but from the Papiſts, for they are the greateſt gainers; and being our fellow Subjects, are be ſure our Debtors.</p>
+            <pb n="6" facs="tcp:100466:4"/>
+            <p>Why if this queſtion ſhould be asked, and may be anſwer<g ref="char:EOLhyphen"/>ed, it muſt be replyed, that by way of Recompence we are Reproached, as Diſloyal and Treacherous, in a Paper that comes out <hi>WITH ALLOWANCE,</hi> and ſo is made into <hi>a Re<g ref="char:EOLhyphen"/>cord</hi> againſt us, and ſhall <hi>ſo far as they can effect it,</hi> be an Evi<g ref="char:EOLhyphen"/>dence to Poſterity, that ever ſince the Reformation, we are one continued Race of Villians.</p>
+            <p>Now this is a Carriage would amaze one beyond what any Exclamation or notes of Admiration can diſcribe: But as I direct my ſelf to the Romaniſts, ſo I ſhall not attempt to move them by any Paſſion or Affection, or any thing leſs than the Kings and their own dear Intereſt.</p>
+            <p>We ought indeed to do our Duty, <hi>thro' evil Report and good Report,</hi> as the Apoſtle expreſſes it, <hi>and by the grace of God we will.</hi>
+            </p>
+            <p>But yet we are a mixture, for like other Societies of Men, <hi>the Tares and the Wheat grow up together.</hi>
+            </p>
+            <p>What a ſtupid folly therefore and deſperate madneſs is it to jear us of our Loyalty, as in another Paper, <hi>Printed Per<g ref="char:EOLhyphen"/>miſſu Superiorum,</hi> or to tempt and provoke us to be Diſloyal, by ſlandering and reproaching of us upon Record for a Race of Traytors; notwithſtanding all our eminent Services to the Crown?</p>
+            <p>I ſay, what ſtupid folly and deſperate madneſs is it to uſe us thus, when if they could prevail upon us, they themſelves muſt periſh for their Pains!</p>
+            <p>But if our reaſoning upon all that's paſt, proves ineffectu<g ref="char:EOLhyphen"/>al, yet NOW methinks when his Majeſty wants and truſts too ſo much; NOW ſurely they ought to lay all the En<g ref="char:EOLhyphen"/>gagements upon us, and give us all the Encouragements that ever they can, to obey the King, and defend them.</p>
+            <p>To ſay only that 'tis our Duty, and we are Bound to do it, is to ſay plainly that they knew nothing of humane Na<g ref="char:EOLhyphen"/>ture: And to give yet a further proof to the World, that they have no Skill at all in Politicks.</p>
+            <p>The Wiſdom of our Prince has judged far otherwiſe, for he has Condeſcended to do, ſeveral Acts of Grace, <hi>And to re<g ref="char:EOLhyphen"/>new his Promiſes,</hi> that ſo he might the more Engage and En<g ref="char:EOLhyphen"/>courage Us to Serve him.</p>
+            <p>So that they muſt again go contrary to the King's pru<g ref="char:EOLhyphen"/>dence
+<pb n="7" facs="tcp:100466:4"/>as well as againſt his Intereſt, if they do not make amends for the Injuries they have done us. This is ſo plain<g ref="char:EOLhyphen"/>ly reaſonable, that ſuppoſe we agree thus far.</p>
+            <p>But here comes the Pinch of the buſineſs; what Injuries have they done us? And what Amends would we have them make us?</p>
+            <p>I have limited my ſelf before to Conſider only this <hi>New Teſt,</hi> and I will keep my method; and now that this is <hi>an Injury with a witneſs,</hi> is undeniable.</p>
+            <p>For unleſs the King was ignorant after ſo many years Ex<g ref="char:EOLhyphen"/>perience of us, or unleſs he began his Reign with a delibe<g ref="char:EOLhyphen"/>rate falſhood in his Mouth. Or yet again, unleſs he is NOW ſo imprudent, <hi>at leaſt,</hi> to repoſe his greateſt Confidence in this eminent Danger, in the Hands of thoſe whom he knows are falſe. My Reverence for the King, ſtrikes me with a Sacred awe, whilſt I do but ſet down theſe things, but yet they are all true, or elſe, this Paper is a <hi>groſs, lying, infamous Libel.</hi>
+            </p>
+            <p>And for the MISCHIEFS it does the Royal Cauſe, which is the next Conſideration. Now,</p>
+            <p>
+               <hi>If dangerous Temptations and outrageous Provocations</hi> to be Diſ<g ref="char:EOLhyphen"/>loyal, be an Injury to the Kings Intereſt? Or again, if the King himſelf has done wiſely in his late Condeſcenſions and Acts of Grace, that ſo like God Almighty, he might allure us to do our Duty, and encouage us in it?</p>
+            <p>Why then like Satan, have they oppoſed the Kings Me<g ref="char:EOLhyphen"/>thod, Diſcoraging and Hindering us all they can; And if ſtill we will be Loyal, 'tis becauſe they are not able to help it.</p>
+            <p>But then becauſe we have ſo much Infirmity and Corrup<g ref="char:EOLhyphen"/>tion about us, <hi>'tis much to be feared,</hi> that like thoſe wicked In<g ref="char:EOLhyphen"/>ſtruments, they will Slacken ſome, and Pervert others from their Duty: And thus you ſee the miſchiefs of this wretched Paper, are only as great as the whole Cauſe it ſelf is worth.</p>
+            <p>Perhaps you'll ſay I aggravate the matter too far upon a ſingle private Paper; But then you don't Conſider the <hi>Allow<g ref="char:EOLhyphen"/>ance,</hi> which makes it a publick Authentick Act, ſo far as concerns that Party, and ſo long as the Paper ſtands with this Mark of Publick eſteem upon it, 'tis an open Declaration that they Account us Diſloyal, and muſt uſe us as ſuch when ever they can.</p>
+            <p>So that upon the whole, 'tis neceſſary to put a mark of Diſgrace upon this Paper, and the very Refuſing of it, <hi>is to
+<pb n="8" facs="tcp:100466:5" rendition="simple:additions"/>ſtand by the Allowance,</hi> and call us Traytors ſtill in oppoſition to the King, and to all, the Damage they can do him, by enfeebling thoſe Hands in which he puts his greateſt hopes.</p>
+            <p>Perhaps I may be asked, Why I put Men in mind of this again? But this Suppoſes it had been forgotten, whereas I can aſſure them, Their <hi>New Teſt Printed with Allowance,</hi> is ſtill freſh in Memory, and I have not Revived it, as every body will Anſwer for me. But my honeſt Reaſon for this Paper at this time, is becauſe that NOW is the Seaſon to make us Amends, for if they will not do it <hi>Now</hi> upon ſo rea<g ref="char:EOLhyphen"/>ſonable a Demand, they would for certain never have done it; and if they will do it Now, <hi>they could never have done it at a better Time.</hi>
+            </p>
+            <p>I do not at all conſider whether this be a Clergy or a Lay <hi>Allowance;</hi> let us but have a <hi>Cenſure</hi> againſt it by any publick Authority amongſt them, and that will be ſome ſatisfaction, for we ſhall thereby ſee their Wiſdom and true Zeal for the King together.</p>
+            <p>I have a long time wiſhed, that we might Try the Ingenu<g ref="char:EOLhyphen"/>ity of the Roman Catholicks in a Matter where their Reli<g ref="char:EOLhyphen"/>gion is nothing concerned; and now here is an Opportuni<g ref="char:EOLhyphen"/>ty put into their hands, and I hope they will uſe it well. They may Account this for a private Paper, but I can aſſure them, the Eyes of the Nation are <hi>Now</hi> fixed upon them, to ſee how they will behave themſelves, as in other Particulars <hi>ſo in This.</hi>
+            </p>
+            <p>If I did not eſteem them as Men of underſtanding, I would ſuggeſt, how it could be no Diſgrace or Shame, but <hi>an Honour and Reputation</hi> to Retract or Diſown <hi>this Paper</hi> Publickly.</p>
+            <p>And now, dear Friend, I have ſaid what occurs to my thoughts upon this matter, and I did it becauſe truly I had a mind, that ſomething to the purpoſe ſhould be made Pub<g ref="char:EOLhyphen"/>lick, and I thought it not reaſonable to deſire it of you, with<g ref="char:EOLhyphen"/>out giving ſome hints of my Deſign; I have now done when I have only added, that the whole is at your diſpoſal abſolut<g ref="char:EOLhyphen"/>ly, for I am, <hi>&amp;c.</hi>
+            </p>
+            <p>Juſt as this is coming away, we hear for certain that the Prince of <hi>Orange</hi> is Landed with a great Army, which Confirms the Deſign, and ſtrengthens the Reaſon of this Paper; For NOW <hi>be ſure</hi> his Majeſties Affairs do <hi>cry mightily</hi> for that PUBLICK SATISFACTION, which every Dunful Son is BOUND to Demand, in behalf of his Holy Mother the Church of England; and if the Ro<g ref="char:EOLhyphen"/>maniſts will not give it us in ſuch a Neceſſity; They muſt be conſidered as the worſt Enemies the King has.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
